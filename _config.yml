@@ -1,0 +1,28 @@
+name: elevenohthreeohfour
+favicon: null
+layout_spectrum: 0.9418020269367844
+typography_spectrum: 0.44523082044906914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7849621819332242
+  lightness: 0.6595791366416961
+  saturation: 0.6587172350846231
+  rhythmicContrast: 0.7307924043852836
+purpose: []
